@@ -1,0 +1,11 @@
+*.unity3d filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+Assets/Resources/Box.fbx filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/WebGL/* filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/WebGL/Data/* filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/d0/d0f330c119045908a52f04ae3d74e540 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/82/826fb9d5268fdcc89044750ac661a2c4 filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/*.dat filter=lfs diff=lfs merge=lfs -text
