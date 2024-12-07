@@ -2,6 +2,8 @@
 
 Bu proje, 3D objeleri seviyeye bağlı olarak parçalara ayıran bir uygulamadır. Kendi geliştirdiğim algoritma sayesinde, kullanıcılar seçtikleri 3D modelin parçalanma seviyelerini ve parçaların uzaklaşma mesafesini belirleyebilir. Bu proje, Unity WebGL platformunda çalışacak şekilde derlenmiş ve tarayıcı üzerinden etkileşimli bir deneyim sunmaktadır.
 
+Bu proje belirli bir süre, [AWS S3](https://aws.amazon.com/s3/) üzerinde depolanmıştır ve buradan erişime açılmıştır. Böylelikle proje, birden fazla ortamda çalışabilmektedir.
+
 <div style="display: flex; justify-content: center;">
   <img align="left" width="45%" height="45%" src="images/image4.png">
   <img align="right" width="45%" height="45%" src="images/image3.png">
